@@ -5,6 +5,12 @@ This folder consists of data analysis projects I have completed independently.
 ## Project List:
 
 [1) Top 300 YouTube Channels](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/2023%20Data%20Project%20-%2001%20Top%20300%20YouTube%20Channels.ipynb)
+  
+ > Below are links to Tableau visualizations related to this data analysis project:
+  
+  - [Top 300 YouTube Channels - Genre and Year Started Percentages](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-GenreandYearStartedPercentages/DashboardYT1)
+  - [Top 300 YouTube Channels - Average Video Views, Video Count, Subscriber Count by Genre and Year](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-AverageVideoViewsVideoCountSubscriberCountbyGenreandYear/DashboardYT2)
+  - [Top 300 YouTube Channels - All Channel Video Views, Video Count, Subscriber Count List](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-AllChannelVideoViewsVideoCountSubscriberCountList/DashboardYT3)
 
 ## Course Certifications
 
