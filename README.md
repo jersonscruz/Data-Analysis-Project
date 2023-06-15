@@ -8,6 +8,8 @@ Below are links to additional Tableau visualizations related to the data project
   - [Top 300 YouTube Channels - Average Video Views, Video Count, Subscriber Count by Genre and Year](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-AverageVideoViewsVideoCountSubscriberCountbyGenreandYear/DashboardYT2)
   - [Top 300 YouTube Channels - All Channel Video Views, Video Count, Subscriber Count List](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-AllChannelVideoViewsVideoCountSubscriberCountList/DashboardYT3)
 
+<br>
+
 ## Course Certifications
 
 Below is a list of course certifications I have completed.
