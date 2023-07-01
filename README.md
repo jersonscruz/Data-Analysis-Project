@@ -14,7 +14,7 @@ Below are data projects I have completed independently.
 
 <br>
 
-2) [Best Selling Video Games](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/2023%20Data%20Project%20-%2002%20Best%20Selling%20Video%20Games.ipynb)
+2) [Best-Selling Video Games](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/2023%20Data%20Project%20-%2002%20Best-Selling%20Video%20Games.ipynb)
   
       Below are links to additional Tableau visualizations related to the Best Selling Video Games project above:
   
