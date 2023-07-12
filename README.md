@@ -4,7 +4,7 @@ Below are data projects I have completed independently.
 
 <br>
 
-1) [Top 300 YouTube Channels](https://github.com/jersonscruz/Data-Analysis-Projects/blob/3601a972bfa15aa13f31b3224561ef39c8edfe83/2023%20Data%20Project%20-%2001%20Top%20300%20YouTube%20Channels.ipynb)
+1) [Top 300 YouTube Channels](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/2023%20Data%20Project%20-%2001%20Top%20300%20YouTube%20Channels.ipynb)
   
       Below are links to additional Tableau visualizations related to the Top 300 YouTube Channels project above:
   
