@@ -1,6 +1,8 @@
-# Data Analysis Projects:
+# Data Analysis Projects
 
-Below are data projects I have completed independently. 
+<br>
+
+Below are data analysis projects I have completed independently. 
 
 <br>
 
@@ -25,7 +27,7 @@ Below are data projects I have completed independently.
 
 3) [Fake Bills](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/2023%20Data%20Project%20-%2003%20Fake%20Bills.ipynb)
   
-    Below are links to additional Tableau visualizations related to the Fake Bills project above:
+    Below is a link to an additional Tableau visualization related to the Fake Bills project above:
   
     - [Fake Bills - Average Dimension Measures Bar Chart](https://public.tableau.com/app/profile/jerson.cruz/viz/FakeBills-AverageDimensionMeasuresBarChart/DashboardFB1)
 
