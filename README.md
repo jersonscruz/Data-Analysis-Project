@@ -2,7 +2,7 @@
 
 <br>
 
-Below are data analysis projects I have completed independently. 
+Below are data analysis projects I have completed independently:
 
 <br>
 
