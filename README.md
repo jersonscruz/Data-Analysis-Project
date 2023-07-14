@@ -45,4 +45,4 @@ Below is a list of course certifications I have completed.
 
 [4) Udemy: Python for Data Science](https://www.udemy.com/certificate/UC-e11b1e60-2839-4a9f-93ef-f5a3def2197b/)
 
-[5) Udemy: SQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
+[5) Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
