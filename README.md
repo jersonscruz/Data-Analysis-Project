@@ -10,7 +10,7 @@ Below are data analysis projects I have completed independently:
   
       Below are links to additional Tableau visualizations related to the Top 300 YouTube Channels project above:
   
-      - [Top 300 YouTube Channels - Genre and Year Started Percentages](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-GenreandYearStartedPercentages/DashboardYT1)
+      - [Top 300 YouTube Channels - Number of Channels Within Each Genre](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-GenreandYearStartedPercentages/DashboardYT1)
       - [Top 300 YouTube Channels - Average Video Views, Video Count, Subscriber Count by Genre and Year](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-AverageVideoViewsVideoCountSubscriberCountbyGenreandYear/DashboardYT2)
     - [Top 300 YouTube Channels - All Channel Video Views, Video Count, Subscriber Count List](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannels-AllChannelVideoViewsVideoCountSubscriberCountList/DashboardYT3)
 
