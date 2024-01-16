@@ -19,7 +19,8 @@ Below are data analysis projects I have completed independently:
   
       Below is a link to an additional Tableau visualization related to the Best-Selling Video Games project above:
   
-      - [Best-Selling Video Games - Total Sales by Initial Release Date](https://public.tableau.com/app/profile/jerson.cruz/viz/BestSellingVideoGamesTotalSalesByInitialReleaseDate/ChartVG01)
+      - [Best-Selling Video Games - Total Sales by Series](https://public.tableau.com/app/profile/jerson.cruz/viz/BestSellingVideoGamesTotalSalesBySeries/DashboardVG01)
+      - [Best-Selling Video Games - Total Sales by Initial Release Date](https://public.tableau.com/app/profile/jerson.cruz/viz/BestSellingVideoGamesTotalSalesByInitialReleaseDate_17054456983910/DashboardVG02)
 
 <br>
 
@@ -27,7 +28,7 @@ Below are data analysis projects I have completed independently:
   
     Below is a link to an additional Tableau visualization related to the Fake Bills project above:
   
-    - [Fake Bills - Average Dimension Measurements](https://public.tableau.com/app/profile/jerson.cruz/viz/FakeBillsAverageDimensionMeasurements/DashboardFB01)
+    - [Fake Bills - Average Dimension Measurements](https://public.tableau.com/app/profile/jerson.cruz/viz/FakeBillsAverageDimensionMeasurements_17054457509050/DashboardFB01)
 
 <br>
 
