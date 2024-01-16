@@ -47,4 +47,4 @@ Below is a list of course certifications I have completed.
 
 [6) Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
 
-[7) Google Analytics Certification](https://skillshop.exceedlms.com/student/award/W9xNCSWe1Nn52cB6HBxKUvzt)
+[7) Google Analytics (GA4) Certification](https://skillshop.exceedlms.com/student/award/W9xNCSWe1Nn52cB6HBxKUvzt)
