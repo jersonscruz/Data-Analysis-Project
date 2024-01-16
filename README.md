@@ -33,7 +33,7 @@ Below are data analysis projects I have completed independently:
 
 ## Course Certifications
 
-Below is a list of courses and certifications I have completed.
+Below is a list of course certifications I have completed.
 
 [1) Udemy: Business Administration](https://www.udemy.com/certificate/UC-10fff2e9-2d71-43fc-bb75-70e77049b806/)
 
