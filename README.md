@@ -17,7 +17,7 @@ Below are data analysis projects I have completed independently:
 
 2) [Best-Selling Video Games](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/2023%20Data%20Project%20-%2002%20Best-Selling%20Video%20Games.ipynb)
   
-      Below is a link to an additional Tableau visualization related to the Best-Selling Video Games project above:
+      Below is a link to additional Tableau visualizations related to the Best-Selling Video Games project above:
   
       - [Best-Selling Video Games - Total Sales by Series](https://public.tableau.com/app/profile/jerson.cruz/viz/BestSellingVideoGamesTotalSalesBySeries/DashboardVG01)
       - [Best-Selling Video Games - Total Sales by Initial Release Date](https://public.tableau.com/app/profile/jerson.cruz/viz/BestSellingVideoGamesTotalSalesByInitialReleaseDate_17054456983910/DashboardVG02)
