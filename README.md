@@ -32,7 +32,7 @@ Below are data analysis projects I have completed independently:
 
 <br>
 
-## Certifications
+## Course Certifications
 
 Below is a list of course certifications I have completed.
 
