@@ -101,9 +101,9 @@ ORDER BY highest_salary DESC;
 SELECT
 	emp_no AS employee_number,
 	# Use a subquery to find the lowest department number an employee has worked in
-    (SELECT
+    	(SELECT
 		MIN(dept_no)
-    # The dept_emp table contains both department number and employee number    
+    	# The dept_emp table contains both department number and employee number    
 	FROM dept_emp de
 	WHERE e.emp_no = de.emp_no) AS department_number,
 	CASE WHEN emp_no <= 10020 THEN '110022' ELSE '110039' END AS manager
@@ -217,7 +217,7 @@ WINDOW w AS (PARTITION BY dm.dept_no ORDER BY s.salary DESC);
 
 
 # 8) Obtain a table of the total number of male employees whose highest salaries are lower than the average salary of the total number of contracts,
-#	 along with the total number of contracts. These totals will be the two fields of the resulting table.
+#    along with the total number of contracts. These totals will be the two fields of the resulting table.
 
 # Create CTEs (Common Table Expressions) for the employees' highest salaries and the average salary of the entire employee population
 WITH
