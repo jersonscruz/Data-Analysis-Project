@@ -126,8 +126,8 @@ SELECT
 	e.last_name,
 	e.hire_date,
 	t.title,
-    t.from_date AS position_start_date,
-    t.to_date AS position_end_date
+        t.from_date AS position_start_date,
+    	t.to_date AS position_end_date
 FROM employees e
 # Inner join to join employees table with titles table, which contains employee number, titles, position start date, and position end date
 INNER JOIN titles t ON e.emp_no = t.emp_no
@@ -195,9 +195,9 @@ SELECT
 	d.dept_no AS department_number,
 	d.dept_name AS department_name,
 	dm.emp_no AS employee_number,
-    e.first_name AS manager_first_name,
-    e.last_name AS manager_last_name,
-    # RANK window function for department salary (specified at end of query)
+    	e.first_name AS manager_first_name,
+    	e.last_name AS manager_last_name,
+    	# RANK window function for department salary (specified at end of query)
 	RANK() OVER w AS department_salary_ranking,
 	s.salary,
 	s.from_date AS salary_start_date,
