@@ -83,10 +83,10 @@ WHERE YEAR(hire_date) = 2000;
 #	 - Highest Salary
  
 SELECT
-    e.emp_no AS employee_number,
-    e.first_name,
-    e.last_name,
-    MAX(s.salary) AS highest_salary
+    	e.emp_no AS employee_number,
+    	e.first_name,
+    	e.last_name,
+    	MAX(s.salary) AS highest_salary
 FROM employees e
 INNER JOIN salaries s ON e.emp_no = s.emp_no
 GROUP BY emp_no
