@@ -83,7 +83,7 @@ WHERE YEAR(hire_date) = 2000;
 #	 - Highest Salary
  
 SELECT
-	e.emp_no AS employee_number,
+    e.emp_no AS employee_number,
     e.first_name,
     e.last_name,
     MAX(s.salary) AS highest_salary
