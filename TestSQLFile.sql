@@ -33,12 +33,12 @@ USE employees;
 
 
 # 1) Obtain a table containing the average salary of employees by gender in each department.
-#	 Order the results by department number in ascending order.
-#	 The field list should contain:
-#	 - Department Number
-#	 - Department Name
-#	 - Gender
-#	 - Average Salary
+#    Order the results by department number in ascending order.
+#    The field list should contain:
+#    - Department Number
+#    - Department Name
+#    - Gender
+#    - Average Salary
 
 SELECT
 	d.dept_no AS department_number,
@@ -58,11 +58,11 @@ GROUP BY d.dept_no, e.gender
 ORDER BY d.dept_no;
 
 # 2) Obtain a table containing all employees that have been hired in 2000. 
-#	 The field list should contain:
-#	 - Employee Number
-#	 - First Name
-#	 - Last Name
-#	 - Hire Date
+#    The field list should contain:
+#    - Employee Number
+#    - First Name
+#    - Last Name
+#    - Hire Date
 
 SELECT
 	emp_no AS employee_number,
@@ -76,11 +76,11 @@ WHERE YEAR(hire_date) = 2000;
 # 3) Obtain a table of employees with their highest salaries. 
 #    Filter only for employees with a max salary greater than $80,000.
 #    Order the results by salary in descending order.
-#	 The field list should contain:
-#	 - Employee Number
-#	 - First Name
-#	 - Last Name
-#	 - Highest Salary
+#    The field list should contain:
+#    - Employee Number
+#    - First Name
+#    - Last Name
+#    - Highest Salary
  
 SELECT
     	e.emp_no AS employee_number,
@@ -112,13 +112,13 @@ WHERE emp_no <= 10040;
 
 
 # 5) Obtain a table containing a list of all employees with "Engineer" in their title.
-#	 The field list should contain:
-#	 - First Name
-#	 - Last Name
-#	 - Hire Date
-#	 - Title
-#	 - Position Start Date
-#	 - Position End Date
+#    The field list should contain:
+#    - First Name
+#    - Last Name
+#    - Hire Date
+#    - Title
+#    - Position Start Date
+#    - Position End Date
 
 SELECT 
 	e.emp_no AS employee_number,
@@ -136,17 +136,17 @@ WHERE title LIKE ('%Engineer%');
 
 
 # 6) Obtain a table with the number of distinct employee numbers and the total number of employee numbers.
-# 	 The field list should contain:
-# 	 - Distinct Number of Employees
-# 	 - Total Number of Employees
-# 	 Then, obtain a table of distinct employee numbers and the total number of contracts based on the salaries table.
-# 	 The field list should contain:
-# 	 - Distinct Number of Employees
-# 	 - Total Number of Contracts
-# 	 Lastly, append the results of both tables to create one table.
-# 	 The field list should contain:
-# 	 - Distinct Numbers
-# 	 - Total Numbers
+#    The field list should contain:
+#    - Distinct Number of Employees
+#    - Total Number of Employees
+#    Then, obtain a table of distinct employee numbers and the total number of contracts based on the salaries table.
+#    The field list should contain:
+#    - Distinct Number of Employees
+#    - Total Number of Contracts
+#    Lastly, append the results of both tables to create one table.
+#    The field list should contain:
+#    - Distinct Numbers
+#    - Total Numbers
 
 # Distinct Number of Employees and Total Number of Employees
 SELECT
@@ -176,20 +176,20 @@ FROM salaries;
  
  
 # 7) Obtain a table of departments and the department managers associated with them.
-# 	 Provide the salaries of the department managers, with the date range of the salary, and the date range at which the manager oversaw the department.
-# 	 Provide a rank number for the salaries in descending order within each department.
-# 	 The field list should contain:
-# 	 - Department Number
-#	 - Department Name
-#	 - Manager Number
-#	 - Manager Name
-#	 - Manager Last Name
-#	 - Department Salary Ranking
-#	 - Salary
-#	 - Salary Start Date
-#	 - Salary End Date
-#	 - Start Date for Manager within Department
-#	 - End Date for Manager within Department
+#    Provide the salaries of the department managers, with the date range of the salary, and the date range at which the manager oversaw the department.
+#    Provide a rank number for the salaries in descending order within each department.
+#    The field list should contain:
+#    - Department Number
+#    - Department Name
+#    - Manager Number
+#    - Manager Name
+#    - Manager Last Name
+#    - Department Salary Ranking
+#    - Salary
+#    - Salary Start Date
+#    - Salary End Date
+#    - Start Date for Manager within Department
+#    - End Date for Manager within Department
  
 SELECT
 	d.dept_no AS department_number,
