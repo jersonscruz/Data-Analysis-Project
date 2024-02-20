@@ -94,7 +94,7 @@ HAVING highest_salary > 80000
 ORDER BY highest_salary DESC;
 
 #  4) Obtain a table containing the following three fields for all individuals whose employee number is not greater than 10040:
-#  	  - Employee Number
+#     - Employee Number
 #     - The lowest department number among the departments where the employee has worked in
 #     - Assign '110022' as 'manager' to all individuals whose employee number is lower than or equal to 10020, and '110039' to those whose number is between 10021 and 10040 inclusive
 
@@ -122,7 +122,7 @@ WHERE emp_no <= 10040;
 
 SELECT 
 	e.emp_no AS employee_number,
-    e.first_name,
+    	e.first_name,
 	e.last_name,
 	e.hire_date,
 	t.title,
