@@ -2,7 +2,7 @@
 
 <br>
 
-Below are data analysis projects I have completed independently:
+Below are data analysis projects I have completed independently. These projects leverage datasets from Kaggle to be cleaned, explored, and analyzed:
 
 <br>
 
@@ -32,7 +32,7 @@ Below are data analysis projects I have completed independently:
 
 <br>
 
-## Course Certifications
+# Course Certifications
 
 Below is a list of course certifications I have completed.
 
