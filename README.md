@@ -2,7 +2,7 @@
 
 <br>
 
-Below are data analysis projects I have completed independently. These projects leverage datasets from Kaggle to be cleaned, explored, and analyzed:
+Below are data analysis projects I have completed independently by utilizing Python and Tableau. These projects leverage datasets from Kaggle to be cleaned, explored, and analyzed:
 
 <br>
 
@@ -32,20 +32,32 @@ Below are data analysis projects I have completed independently. These projects 
 
 <br>
 
+# SQL Queries
+
+<br>
+
+Below is a link to a SQL file that presents sample prompts and queries I have written:
+
+<br>
+
+1) [SQL Queries on Employees Databse](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/SQLFileEmployeesDatabase.sql)
+
+<br>
+
 # Course Certifications
 
-Below is a list of course certifications I have completed.
+Below is a list of course certifications I have completed:
 
-[1) Udemy: Business Administration](https://www.udemy.com/certificate/UC-10fff2e9-2d71-43fc-bb75-70e77049b806/)
+1) [Udemy: Business Administration](https://www.udemy.com/certificate/UC-10fff2e9-2d71-43fc-bb75-70e77049b806/)
 
-[2) Udemy: Product Management](https://www.udemy.com/certificate/UC-d85bd332-df51-473e-8650-e753e025aa9f/)
+2) [Udemy: Product Management](https://www.udemy.com/certificate/UC-d85bd332-df51-473e-8650-e753e025aa9f/)
 
-[3) Udemy: Data Science](https://www.udemy.com/certificate/UC-8b297df9-f0a2-4484-b589-a17885a1eaaa/)
+3) [Udemy: Data Science](https://www.udemy.com/certificate/UC-8b297df9-f0a2-4484-b589-a17885a1eaaa/)
 
-[4) Udemy: Python for Data Science](https://www.udemy.com/certificate/UC-e11b1e60-2839-4a9f-93ef-f5a3def2197b/)
+4) [Udemy: Python for Data Science](https://www.udemy.com/certificate/UC-e11b1e60-2839-4a9f-93ef-f5a3def2197b/)
 
-[5) Udemy: R for Data Science](https://www.udemy.com/certificate/UC-58bf5de6-1b27-4a3c-8977-14b7868d6a3c/)
+5) [Udemy: R for Data Science](https://www.udemy.com/certificate/UC-58bf5de6-1b27-4a3c-8977-14b7868d6a3c/)
 
-[6) Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
+6) [Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
 
-[7) Google Analytics (GA4) Certification](https://skillshop.exceedlms.com/student/award/W9xNCSWe1Nn52cB6HBxKUvzt)
+7) [Google Analytics (GA4) Certification](https://skillshop.exceedlms.com/student/award/W9xNCSWe1Nn52cB6HBxKUvzt)
