@@ -1,7 +1,5 @@
 # Data Analysis Projects
 
-<br>
-
 Below are data analysis projects I have completed independently by utilizing Python and Tableau. These projects leverage datasets from Kaggle to be cleaned, explored, and analyzed:
 
 <br>
@@ -33,8 +31,6 @@ Below are data analysis projects I have completed independently by utilizing Pyt
 <br>
 
 # SQL Queries
-
-<br>
 
 Below is a link to a SQL file that presents sample prompts and queries I have written:
 
