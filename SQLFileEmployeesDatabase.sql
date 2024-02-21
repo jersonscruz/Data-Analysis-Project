@@ -24,7 +24,7 @@
 --  Any similarity to existing people is purely coincidental.
 
 
-# Specify the database to be used
+# Specify the database to be used:
 
 USE employees;
 
@@ -33,12 +33,12 @@ USE employees;
 
 
 # 1) Obtain a table containing the average salary, rounded to 2 decimal places, of employees by gender in each department.
-#	 Order the results by department number in ascending order.
-#	 The field list should contain:
-#	 - Department Number
-#	 - Department Name
-#	 - Gender
-#	 - Average Salary
+#    Order the results by department number in ascending order.
+#    The field list should contain:
+#    - Department Number
+#    - Department Name
+#    - Gender
+#    - Average Salary
 
 SELECT
 	d.dept_no AS department_number,
@@ -58,11 +58,11 @@ GROUP BY d.dept_no, e.gender
 ORDER BY d.dept_no;
 
 # 2) Obtain a table containing all employees that have been hired in 2000. 
-#	 The field list should contain:
-#	 - Employee Number
-#	 - First Name
-#	 - Last Name
-#	 - Hire Date
+#    The field list should contain:
+#    - Employee Number
+#    - First Name
+#    - Last Name
+#    - Hire Date
 
 SELECT
 	emp_no AS employee_number,
@@ -76,17 +76,17 @@ WHERE YEAR(hire_date) = 2000;
 # 3) Obtain a table of employees with their highest salaries. 
 #    Filter only for employees with a max salary greater than $80,000.
 #    Order the results by salary in descending order.
-#	 The field list should contain:
-#	 - Employee Number
-#	 - First Name
-#	 - Last Name
-#	 - Highest Salary
+#    The field list should contain:
+#    - Employee Number
+#    - First Name
+#    - Last Name
+#    - Highest Salary
  
 SELECT
 	e.emp_no AS employee_number,
-    e.first_name,
-    e.last_name,
-    MAX(s.salary) AS highest_salary
+    	e.first_name,
+    	e.last_name,
+    	MAX(s.salary) AS highest_salary
 FROM employees e
 INNER JOIN salaries s ON e.emp_no = s.emp_no
 GROUP BY emp_no
@@ -94,19 +94,19 @@ HAVING highest_salary > 80000
 ORDER BY highest_salary DESC;
 
 #  4) Obtain a table containing the following three fields for all individuals whose employee number is not greater than 10040:
-#  	  - Employee Number
+#     - Employee Number
 #     - The lowest department number among the departments where the employee has worked in
 #     - Assign '110022' as 'manager' to all individuals whose employee number is lower than or equal to 10020, and '110039' to those whose number is between 10021 and 10040 inclusive
 
 SELECT
-	emp_no AS employee_number,
-	# Use a subquery to find the lowest department number an employee has worked in
-    (SELECT
-		MIN(dept_no)
-    # The dept_emp table contains both department number and employee number    
-	FROM dept_emp de
-	WHERE e.emp_no = de.emp_no) AS department_number,
-	CASE WHEN emp_no <= 10020 THEN '110022' ELSE '110039' END AS manager
+    	emp_no AS employee_number,
+    	# Use a subquery to find the lowest department number an employee has worked in
+    	(SELECT
+     		MIN(dept_no)
+     	# The dept_emp table contains both department number and employee number    
+     	FROM dept_emp de
+     	WHERE e.emp_no = de.emp_no) AS department_number,
+     	CASE WHEN emp_no <= 10020 THEN '110022' ELSE '110039' END AS manager
 FROM employees e
 WHERE emp_no <= 10040;
 
@@ -123,12 +123,12 @@ WHERE emp_no <= 10040;
 
 SELECT 
 	e.emp_no AS employee_number,
-    e.first_name,
+   	e.first_name,
 	e.last_name,
 	e.hire_date,
 	t.title,
-    t.from_date AS position_start_date,
-    t.to_date AS position_end_date
+    	t.from_date AS position_start_date,
+   	t.to_date AS position_end_date
 FROM employees e
 # Inner join to join employees table with titles table, which contains employee number, titles, position start date, and position end date
 INNER JOIN titles t ON e.emp_no = t.emp_no
@@ -199,9 +199,9 @@ SELECT
 	d.dept_no AS department_number,
 	d.dept_name AS department_name,
 	dm.emp_no AS employee_number,
-    e.first_name AS manager_first_name,
-    e.last_name AS manager_last_name,
-    # RANK window function for department salary (specified at end of query)
+    	e.first_name AS manager_first_name,
+    	e.last_name AS manager_last_name,
+    	# RANK window function for department salary (specified at end of query)
 	RANK() OVER w AS department_salary_ranking,
 	s.salary,
 	s.from_date AS salary_start_date,
@@ -221,7 +221,7 @@ WINDOW w AS (PARTITION BY dm.dept_no ORDER BY s.salary DESC);
 
 
 # 8) Obtain a table of the total number of male employees whose highest salaries are lower than the average salary of the total number of contracts,
-#	 along with the total number of contracts. These totals will be the two fields of the resulting table.
+#    along with the total number of contracts. These totals will be the two fields of the resulting table.
 
 # Create CTEs (Common Table Expressions) for the employees' highest salaries and the average salary of the entire employee population
 WITH
