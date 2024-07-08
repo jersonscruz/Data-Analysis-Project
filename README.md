@@ -54,6 +54,10 @@ Below is a list of course certifications I have completed:
 
 5) [Udemy: R for Data Science](https://www.udemy.com/certificate/UC-58bf5de6-1b27-4a3c-8977-14b7868d6a3c/)
 
-6) [Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
+6) [Udemy: Analytics Engineering](https://www.udemy.com/certificate/UC-202b70bf-8929-4835-b877-6cbecc6a6294/)
 
-7) [Google Analytics (GA4) Certification](https://skillshop.exceedlms.com/student/award/W9xNCSWe1Nn52cB6HBxKUvzt)
+7) [Udemy: Data Warehouse](https://www.udemy.com/certificate/UC-87c23710-a0d9-4f2f-866b-662d1d31b73e/)
+
+8) [Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
+
+9) [Google Analytics (GA4) Certification](https://skillshop.exceedlms.com/student/award/W9xNCSWe1Nn52cB6HBxKUvzt)
