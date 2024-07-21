@@ -261,11 +261,11 @@ SELECT
     	first_name,
     	last_name,
 	hire_date,
-    	# Use DATEDIFF function to calculate the number of days between two dates
-    	DATEDIFF(day, current_date, hire_date) as date_difference
+    	# Use TIMESTAMPDIFF function to calculate the number of days between two dates
+    	TIMESTAMPDIFF(day, hire_date, current_date) AS date_difference
 FROM employees
 # Specify the condition for the number of days in between
-WHERE DATEDIFF(current_date, hire_date) < 30
+WHERE TIMESTAMPDIFF(day, hire_date, current_date) < 30
 ORDER BY hire_date, emp_no ASC;
 
 
