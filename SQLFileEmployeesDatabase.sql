@@ -302,16 +302,16 @@ ORDER BY emp_no, from_date ASC;
 
 # CTE Solution
 WITH cte AS
-	(SELECT
-		e.emp_no,
-        	e.first_name,
-        	e.last_name,
-		s.salary,
-		s.from_date,
-        	# Create a row number column in salary change date descending order
-		ROW_NUMBER() OVER(PARTITION BY e.emp_no ORDER BY s.from_date DESC) AS date_row_number
-	 FROM employees e
-	 INNER JOIN salaries s on e.emp_no = s.emp_no)
+(SELECT
+	e.emp_no,
+        e.first_name,
+        e.last_name,
+	s.salary,
+	s.from_date,
+        # Create a row number column in salary change date descending order
+	ROW_NUMBER() OVER(PARTITION BY e.emp_no ORDER BY s.from_date DESC) AS date_row_number
+ FROM employees e
+ INNER JOIN salaries s on e.emp_no = s.emp_no)
 	
 SELECT
 	emp_no,
