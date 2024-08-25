@@ -6,27 +6,25 @@ Below are data analysis projects I have completed independently by utilizing Pyt
 
 1) [Top 300 YouTube Channels](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2001%20Top%20300%20YouTube%20Channels.ipynb)
   
-      Below are links to additional Tableau visualizations related to the Top 300 YouTube Channels project above:
+      Below is a link to a Tableau dashboard relevant to the Top 300 YouTube Channels project above:
   
-      - [Top 300 YouTube Channels - Number of Channels by Genre](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannelsNumberOfChannelsByGenre/DashboardYT01)
-      - [Top 300 YouTube Channels - Average Video Views Per Channel By Genre](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannelsAverageVideoViewsPerChannelByGenre/DashboardYT02)
+      - [Top 300 YouTube Channels Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/Top300YouTubeChannelsDashboard001/DashboardTopYT001)
   
 <br>
 
 2) [Best-Selling Video Games](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2002%20Best-Selling%20Video%20Games.ipynb)
   
-      Below is a link to additional Tableau visualizations related to the Best-Selling Video Games project above:
+      Below is a link to Tableau dashboard relevant to the Best-Selling Video Games project above:
   
-      - [Best-Selling Video Games - Total Sales by Series](https://public.tableau.com/app/profile/jerson.cruz/viz/BestSellingVideoGamesTotalSalesBySeries/DashboardVG01)
-      - [Best-Selling Video Games - Total Sales by Initial Release Date](https://public.tableau.com/app/profile/jerson.cruz/viz/BestSellingVideoGamesTotalSalesByInitialReleaseDate_17054456983910/DashboardVG02)
+      - [Best-Selling Video Games Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/Best-SellingVideoGamesDashboard/DashboardBSVG001)
 
 <br>
 
 3) [Fake Bills](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2003%20Fake%20Bills.ipynb)
   
-    Below is a link to an additional Tableau visualization related to the Fake Bills project above:
+    Below is a link to a Tableau chart relevant to the Fake Bills project above:
   
-    - [Fake Bills - Average Dimension Measurements](https://public.tableau.com/app/profile/jerson.cruz/viz/FakeBillsAverageDimensionMeasurements_17054457509050/DashboardFB01)
+    - [Fake Bills Average Dimension Measurements Chart](https://public.tableau.com/app/profile/jerson.cruz/viz/FakevsRealBillsChart/ChartFB001)
 
 <br>
 
