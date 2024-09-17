@@ -34,7 +34,7 @@ Below is a link to a SQL file that presents sample prompts and queries I have wr
 
 <br>
 
-1) [SQL Queries on Employees Databse](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/SQLFileEmployeesDatabase.sql)
+1) [SQL Queries on Employees Database](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/SQLFileEmployeesDatabase.sql)
 
 <br>
 
