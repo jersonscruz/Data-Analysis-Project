@@ -14,7 +14,7 @@ Below are data analysis projects I have completed independently by utilizing Pyt
 
 2) [Best-Selling Video Games](https://github.com/jersonscruz/Data-Analysis-Projects/blob/main/Data%20Project%20-%2002%20Best-Selling%20Video%20Games.ipynb)
   
-      Below is a link to Tableau dashboard relevant to the Best-Selling Video Games project above:
+      Below is a link to a Tableau dashboard relevant to the Best-Selling Video Games project above:
   
       - [Best-Selling Video Games Dashboard](https://public.tableau.com/app/profile/jerson.cruz/viz/Best-SellingVideoGamesDashboard/DashboardBSVG001)
 
