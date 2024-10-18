@@ -57,5 +57,3 @@ Below is a list of course certifications I have completed:
 7) [Udemy: Data Warehouse](https://www.udemy.com/certificate/UC-87c23710-a0d9-4f2f-866b-662d1d31b73e/)
 
 8) [Udemy: SQL for Data Analytics](https://www.udemy.com/certificate/UC-f01487ca-c75e-4bbf-a671-e8ceb2dc7f82/)
-
-9) [Google Analytics (GA4) Certification](https://skillshop.exceedlms.com/student/award/W9xNCSWe1Nn52cB6HBxKUvzt)
